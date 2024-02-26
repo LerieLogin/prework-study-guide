@@ -11,7 +11,7 @@
 
 
 - [Installation](#installation)
-- [Usage] (#study)
+- [Usage](#study)
 - [Credits](#credits)
 - [License](#license)
 
